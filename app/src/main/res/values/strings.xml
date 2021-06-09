@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">AppVacov</string>
+    <string name="iniciar_sesion">Iniciar sesión</string>
+    <string name="recuperarContrasena">Recuperar contraseña</string>
+    <string name="email_login">Correo electrónico</string>
+    <string name="contrasena_login">Contraseña</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="nombre">Nombre</string>
+    <string name="correo">Correo electrónico</string>
+    <string name="numero">Número</string>
+    <string name="documento">Documento</string>
+    <string name="genero">Genero</string>
+    <string name="doc_login">Documento / NIT</string>
+    <string name="documentoPaciente"></string>
+    <string name="direccion">Dirección</string>
+    <string name="selccioneFecha">Seleccione la fecha</string>
+    <string name="citasAsig">Citas asignadas</string>
+    <string name="citasAsigFec">Citas asignadas para la fecha</string>
+    <string name="cantidadDisp">Cantidad Disponible</string>
+    <string name="digiteCantidad">Digite cantidad recibida</string>
+    <string name="vacunas">Vacunas</string>
+    <string name="vacunasRecibidas">Vacunas recibidas</string>
+    <string name="cerrarSesion">Cerrar sesión</string>
+    <string name="generoH">Hombre</string>
+    <string name="generoM">Mujer</string>
+    <string name="fechaNacimiento">Fecha de nacimiento</string>
+    <string name="Eps">EPS</string>
+    <string name="ocupacion">Ocupación</string>
+    <string name="enfermedad">Enfermedad</string>
+    <string name="bienvenido_paciente">Bienvenido paciente</string>
+    <string name="sintomas">Sintomas</string>
+    <string name="etapaDispPac">Etapa disponible pacientes</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="disponible">Disponible</string>
+    <string name="ruta">Planear Ruta</string>
+    <array name="Eps">
+        <item>Seleccione</item>
+        <item>Sura EPS</item>
+    </array>
+    <array name="Enfermedades">
+        <item>Seleccione</item>
+        <item>Diabetes</item>
+        <item>Insuficiencia renal</item>
+        <item>VIH</item>
+        <item>Cancer</item>
+        <item>Tuberculosis</item>
+        <item>EPOC</item>
+        <item>ASMA</item>
+        <item>Obesidad</item>
+        <item>Transplate de organos</item>
+        <item>Ninguna de las anteriores</item>
+    </array>
+    <array name="etapaDisp">
+        <item>Seleccione</item>
+        <item>Primera</item>
+        <item>Segunda</item>
+        <item>Tercera</item>
+        <item>Cuarta</item>
+        <item>Quinta</item>
+    </array>
+    <array name="ocupacion">
+        <item>Seleccione</item>
+        <item>Salud primera linea</item>
+        <item>Salud</item>
+        <item>Empleado</item>
+        <item>Independiente</item>
+        <item>Educador</item>
+        <item>Estudiante</item>
+        <item>Fuerza publica</item>
+        <item>Socorrista</item>
+    </array>
+    <array name="ocupacionPERS">
+        <item>Seleccione</item>
+        <item>Enfermero</item>
+        <item>Jefe enfermero</item>
+        <item>Médico</item>
+        <item>Coordinador</item>
+    </array>
+    <array name="vacunaAplicada">
+        <item>Seleccione</item>
+        <item>Pfizer</item>
+        <item>AtraZeneca</item>
+        <item>Jannssen</item>
+        <item>Moderna</item>
+        <item>Sinovac</item>
+    </array>
+
+</resources>

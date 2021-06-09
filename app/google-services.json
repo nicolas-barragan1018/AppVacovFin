@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "860081589573",
+    "project_id": "appvacov-df3c8",
+    "storage_bucket": "appvacov-df3c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860081589573:android:db0f2b6a059db9573f422c",
+        "android_client_info": {
+          "package_name": "co.edu.unipiloto.appvacov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860081589573-6j51ks16fb8th9le500qcf0us3prlfea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPvVY7ft8ok7gzKkBpMhkxG41Srr61g5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860081589573-6j51ks16fb8th9le500qcf0us3prlfea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
